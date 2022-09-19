@@ -8,4 +8,6 @@ This System wasn't desgined to Harm or to be used in Malicious Actions but wante
 
 I was Testing my scripting skills and expand my understanding of programming.
 
-It was made via Education Purposes
+It was made via Educational Purposes
+
+Be Safe
